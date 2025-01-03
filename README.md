@@ -18,6 +18,8 @@ This repository contains a Python implementation of the popular mobile game **Co
 - **Color Changer Power-Up:** Randomly changes the ball's color, adding a dynamic twist to the gameplay.
 - **Game Over Screen:** A distinct game-over screen to restart or exit the game.
 - **Collision Detection:** Accurate detection for ball-obstacle collisions.
+-  **Scrolling Effect:** As the player covers a set max distance, all the obstacles move down a constant value.
+-  **Random Respawn and deletion:** The obstacles randomly respawn and are deleted once they are off-screen.
 
 ---
 
