@@ -67,8 +67,5 @@ This game is built using the **Pygame** library. Please ensure you have Pygame i
 
 1. Clone or download this repository.
 2. Ensure all the **code files** and **assets** (e.g., images, sounds) are in the same folder.
-3. Open a terminal in the project folder and run the main game file using Python:
-
-```bash
-python main.py
+3. Run the Color_Switch.py file
 
